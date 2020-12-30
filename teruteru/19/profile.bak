@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>profile</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<script language="JavaScript">
+<!--
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+function na_preload_img()
+{ 
+  var img_list = na_preload_img.arguments;
+  if (document.preloadlist == null) 
+    document.preloadlist = new Array();
+  var top = document.preloadlist.length;
+  for (var i=0; i < img_list.length-1; i++) {
+    document.preloadlist[top+i] = new Image;
+    document.preloadlist[top+i].src = img_list[i+1];
+  } 
+}
+
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+// -->
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="images/bg.jpg" OnLoad="na_preload_img(false, 'body_r.png');">
+<table id="__01" width="906" height="1068" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr>
+		<td rowspan="8" height="1067" width="493" background="images/profile_01.jpg">
+<a href="#" OnMouseOut="na_restore_img_src('image1', 'document')" OnMouseOver="na_change_img_src('image1', 'document', 'body_r.png', true)"><img src="body.png" width="493" height="887" border="0" align="middle" name="image1"></a></td>
+		<td colspan="6">
+			<img src="images/profile_02.jpg" width="413" height="37" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="6" width="413" height="150">
+			<img src="images/profile_03.jpg" width="413" height="150" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" height="34" width="129" background="images/profile_04.jpg">
+			</td>
+		<td colspan="2" width="150" height="34">
+			<img src="images/profile_05.jpg" width="150" height="34" alt=""></td>
+		<td colspan="2" rowspan="4" width="134" height="386" background="images/profile_06.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td colspan="4" width="279" height="22" background="images/profile_07.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td width="18" height="241" background="images/profile_08.jpg">
+			</td>
+		<td colspan="2" width="235" height="241">
+			<img src="images/profile_09.jpg" width="235" height="241" alt=""></td>
+		<td width="26" height="241" background="images/profile_10.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td colspan="4" width="279" height="89" background="images/profile_11.jpg">
+			</td>
+	</tr>
+	<tr>
+        <td colspan="5" height="256" width="359" background="images/profile_12.jpg" valign="middle">
+<p><font size="2" face="돋움">공부를 설렁설렁 하는 것 같지만 성적은 아직 잘 나온다.<br>공부를 주기적으로 안하면 현기증이 나는 건 여전.<br>착실하고 꼼꼼한 성격은 못버리고 있다.<br>친구가 있든없든 크게 신경쓰지 않는 것 같다.<br>최근에는 드물지만 활짝 웃기도 하고 슬프면 울기도 한다.<br>상당히 상냥해졌다. 화도 별로 내지 않고<br>싸움을 피하고 있는 느낌이 든다.<br>머릿속에 나사가 빠진듯 멍 때리는 일이 늘었다.<br><br>어렴풋이 외교관을 장래희망으로 생각하고 있다.<br>진짜 좋아하는 게 뭔지 헤매고 있는 느낌.<br>꽃밭을 보며 명상하는게 취미.<br>친구 사귀는데 나름 열중하고 있다.</font></p>
+        </td>		<td height="256" width="54" background="images/profile_13.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td colspan="6" width="413" height="238" background="images/profile_14.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/s.gif" width="493" height="1" alt=""></td>
+		<td>
+			<img src="images/s.gif" width="18" height="1" alt=""></td>
+		<td>
+			<img src="images/s.gif" width="111" height="1" alt=""></td>
+		<td>
+			<img src="images/s.gif" width="124" height="1" alt=""></td>
+		<td>
+			<img src="images/s.gif" width="26" height="1" alt=""></td>
+		<td>
+			<img src="images/s.gif" width="80" height="1" alt=""></td>
+		<td>
+			<img src="images/s.gif" width="54" height="1" alt=""></td>
+	</tr>
+</table>
+<p></p>
+</body>
+</html>

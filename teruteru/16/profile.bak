@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>profile</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="images/bg.jpg">
+<table id="__01" width="906" height="1068" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr>
+		<td rowspan="8" height="1067" width="506" background="images/profile_01.jpg">
+<img src="body.png" width="444" height="1067" border="0" align="middle"></td>
+		<td colspan="6" width="400">
+			<img src="images/profile_02.jpg" width="413" height="37" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="6" width="400" height="150">
+			<img src="images/profile_03.jpg" width="413" height="150" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" height="34" width="116" background="images/profile_04.jpg">
+			</td>
+		<td colspan="2" width="150" height="34">
+			<img src="images/profile_05.jpg" width="150" height="34" alt=""></td>
+		<td colspan="2" rowspan="4" width="134" height="386" background="images/profile_06.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td colspan="4" width="266" height="22" background="images/profile_07.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td width="5" height="241" background="images/profile_08.jpg">
+			</td>
+		<td colspan="2" width="235" height="241">
+			<img src="images/profile_09.jpg" width="235" height="241" alt=""></td>
+		<td width="26" height="241" background="images/profile_10.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td colspan="4" width="266" height="89" background="images/profile_11.jpg">
+			</td>
+	</tr>
+	<tr>
+        <td colspan="5" height="256" width="346" background="images/profile_12.jpg" valign="middle">
+
+            <p><font size="2" face="돋움">아직까지 성적 우수.</font><font size="2" face="돋움"><br>중학생이 되더니 용모단정을 포기한 것 같다.</font><font size="2" face="돋움"><br>질문하고 화내기보다는 혼자 잠자코 생각하게 되었다.</font><font size="2" face="돋움"><br>잘 웃고 여유도 생겼지만 성격도 야비해졌다.</font><font size="2" face="돋움"><br>주변 애들을 바보로 생각하고 있다.</font><font size="2" face="돋움"><br>공부를 주기적으로 안하면 현기증이 나는 건 여전.</font><font size="2" face="돋움"><br>착실하고 꼼꼼한 성격은 못버리고 있다.</font><font size="2" face="돋움"><br>마리포사라서 키가 작은 건 포기하고 지내고 있다.</font><font size="2" face="돋움"><br><br>최강둔부의 복숭아를 맡아서 기르고 있다.</font><font size="2" face="돋움"><br>재배에 은근 맛이 들렸지만 애써 티는 내지 않는다.</font></p>
+        </td>
+		<td height="256" width="54" background="images/profile_13.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td colspan="6" width="400" height="238" background="images/profile_14.jpg">
+			</td>
+	</tr>
+	<tr>
+		<td width="506">
+			<img src="images/s.gif" width="493" height="1" alt=""></td>
+		<td width="5">
+			<img src="images/s.gif" width="18" height="1" alt=""></td>
+		<td width="111">
+			<img src="images/s.gif" width="111" height="1" alt=""></td>
+		<td width="124">
+			<img src="images/s.gif" width="124" height="1" alt=""></td>
+		<td width="26">
+			<img src="images/s.gif" width="26" height="1" alt=""></td>
+		<td width="80">
+			<img src="images/s.gif" width="80" height="1" alt=""></td>
+		<td width="54">
+			<img src="images/s.gif" width="54" height="1" alt=""></td>
+	</tr>
+</table>
+<p></p>
+</body>
+</html>
