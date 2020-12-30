@@ -1,0 +1,9 @@
+<HtmL>
+<big style='font:24 batang; color:blue'>
+<li>D day : 内内⒔抛风 <font color=red>
+<script> var now=new Date();
+ var then=new Date("Mar 1,2013"); // 0426
+ var gap=now.getTime()-then.getTime();
+ gap=Math.floor(gap/(1000*60*60*24));
+  document.write(""+gap+"老")</script></font> 
+</htmL>
